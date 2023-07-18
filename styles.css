@@ -19,8 +19,14 @@ h1{
 .ingredients-list{
     margin-left: -370px;
     list-style:none;
+    max-width: 155px;
 }
 
 dl{
     margin-left: 150px;
+    max-width: 680px;
+}
+
+.recipe-desc{
+    max-width: 520px;
 }
